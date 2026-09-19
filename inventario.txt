@@ -2,4 +2,12 @@ Servidor Alfa
 Pendiente de registro
 
 Servidor Beta
-Pendiente de registro
+
+Nombre: SRV-BETA
+Memoria RAM: 8GB
+Almacenamiento: 500 GB
+IP: 192.168.1.20
+Estado: Activo
+Fecha de registro: 18/09/2026
+Responsable: Norma Gabriela Aguilar
+a68c8839124ae19033a1f515e68152cd282c9e1c
