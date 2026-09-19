@@ -2,4 +2,7 @@ Servidor Alfa
 Pendiente de registro
 
 Servidor Beta
-Pendiente de registro
+IP: 192.168.1.20
+Estado: Activo
+Fecha de registro: 18/09/2026
+Responsable: Norma Gabriela Aguilar
